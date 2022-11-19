@@ -10,4 +10,4 @@ The product is an automatic car that woks electronically following a C programmi
 - ARM Mbed Cortex M3 (LPC1786).
 
 ## Note
-Refer to the 'Software' branch in this repository for the code implementation
+Refer to the 'Software' branch in this repository for the  implementation
