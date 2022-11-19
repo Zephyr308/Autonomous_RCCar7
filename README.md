@@ -1,4 +1,10 @@
-# Technical Diagrams
+# Code files
+- Basic_car.cpp = Basic car program, allowing you to test the RC car as you please
+- Software_code.cpp = My main implementation code for this project
+- ultrasonic_cpp.txt = cpp file for initialsing the ultrasound sensor properly
+- ultrasonic_h.txt = header file containing the functions needed to utilise the library 
+
+## Technical Diagrams
 ### Flowchart
 <image src="Code_flowchart.png" width="3500">
 
