@@ -5,6 +5,6 @@ The product is an automatic car that woks electronically following a C programmi
 ## Components Used:
 - HCSR04 Ultrasonic Sensor
 - RC Car (Provided by the University):
-- 
+<img src="2_Sensors.jpg" width="300">
 
 - ARM Mbed Cortex M3 (LPC1786).
